@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For ESP8266MQTT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP8266MQTT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+loop	KEYWORD2
+isConnected	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+executeDelayed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
