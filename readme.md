@@ -1,5 +1,5 @@
 # ESP8266MQTT库介绍文档
-本ESP8266MQTT库是针对Arduino创建MQTT客户端更加便捷，由开源库PubSubClient（https://github.com/knolleary/pubsubclient） 二次开发而来，相对于PubSubClient重新封装了一些函数，方便使用。为方便大家更好的运用PubSubClient库，我也编写了PubSubClient的[中文文档](https://github.com/zy19970/Pubsubclient_API_document)，大家可以参考使用。
+本ESP8266MQTT库是针对Arduino创建MQTT客户端更加便捷，由开源库PubSubClient（https://github.com/knolleary/pubsubclient ）二次开发而来，相对于PubSubClient重新封装了一些函数，方便使用。为方便大家更好的运用PubSubClient库，我也编写了PubSubClient的[中文文档](https://github.com/zy19970/Pubsubclient_API_document)，大家可以参考使用。
 ## 依赖库
     #include <ESP8266WiFi.h>
     #include <PubSubClient.h>
